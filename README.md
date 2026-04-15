@@ -3,7 +3,7 @@
 **Ph.D. Candidate, Quantitative & Computational Biosciences** — Baylor College of Medicine
 NSF Graduate Research Fellow (2024) · NLM Fellow (2023) · Dean's Award of Excellence (2024)
 
-I build LLM-powered clinical pipelines, agentic AI systems, and predictive models for healthcare. My work spans postpartum mental health prediction, pediatric disease phenotyping, PHI de-identification, and computational modeling for NASA space biology missions — deployed at scale using AWS and Palantir Foundry across 50,000+ patient records.
+I build LLM-powered clinical pipelines, agentic AI systems, and predictive models for healthcare. My work spans postpartum mental health prediction, pediatric disease phenotyping, PHI de-identification, and computational modeling for NASA space biology missions — deployed at scale using AWS and Palantir Foundry across 2.8M+ patient records.
 
 ---
 
