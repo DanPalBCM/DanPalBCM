@@ -22,9 +22,11 @@ I build LLM-powered clinical pipelines, agentic AI systems, and predictive model
 **PHI De-identification Benchmarking** — Evaluated 7 commercial LLMs and 3 custom hybrid pipelines on ~36,000 PHI entities from TCH clinical notes. Best approach (LLM scrubber + regex safety net + precision auditor) achieved 98.6% recall. Publication in preparation.  
 [[repo]](https://github.com/DanPalBCM/Palantir_PHI-Scrubber)
 
-**PENTALPHA — Patient Trajectory Prediction** — LSTM model for predicting clinical trajectories from complete OMOP records (2.8M patients, 284M events). Expanded feature space to include medications, measurements, and labs with curated FDA OTC filtering pipeline. Benchmarked against LLM baselines (LLaMA, Qwen, Mistral). Publication in preparation.
+**PENTALPHA — Patient Trajectory Prediction** — LSTM model for predicting clinical trajectories from complete OMOP records (2.8M patients, 284M events). Expanded feature space to include medications, measurements, and labs with curated FDA OTC filtering pipeline. Benchmarked against LLM baselines (LLaMA, Qwen, Mistral). Publication in preparation.  
+[[repo]](https://github.com/LiuzLab/pentalpha)
 
-**MedSDoH — Social Determinants of Health Extraction** — Rule-based system for SDOH extraction from multi-site EHRs based on the OHNLP framework. Under review at *JAMIA*.
+**MedSDoH — Social Determinants of Health Extraction** — Rule-based system for SDOH extraction from multi-site EHRs based on the OHNLP framework. Under review at *JAMIA*.  
+[[repo]](https://github.com/OHNLP/MedSDoH) · [[fork]](https://github.com/DanPalBCM/MedSDoH)
 
 **Prenatal HPO Extraction** — Benchmarked 6 phenotype extraction tools (PhenoGPT, Doc2HPO, ClinPhen, FastHPOCR, GPT, Claude RAG) on prenatal clinical notes. Manuscript in preparation.  
 [[repo]](https://github.com/DanPalBCM/Palantir_PreNatal)
@@ -71,6 +73,8 @@ Hosur, P., **D. Palacios**. "Proximity-induced equilibrium supercurrent and perf
 ### Open-Source Software
 
 [**AMMPER**](https://github.com/nasa/AMMPER) — Agent-based simulation of microbial populations under space radiation (NASA Biosentinel & LEIA missions)  
+[**PENTALPHA**](https://github.com/LiuzLab/pentalpha) — LSTM-based patient trajectory prediction from OMOP records  
+[**MedSDoH**](https://github.com/OHNLP/MedSDoH) — Rule-based SDOH extraction from multi-site EHRs (OHNLP) · [[fork]](https://github.com/DanPalBCM/MedSDoH)  
 [**TCH Mentor Matching**](https://github.com/LiuzLab/tch-mentormatching) — RAG system for matching mentees with Texas Children's Hospital mentors  
 [**OverlapPlots**](https://github.com/LiuzLab/OverlapPlots) — R package for neurological gene expression analysis (BioConductor)
 
